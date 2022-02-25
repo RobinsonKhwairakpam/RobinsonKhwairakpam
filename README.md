@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robinson Khwairakpam.
 - 👀 I’m interested in the field of web development.
 - 🌱 I have knowledge about CSS,HTML,JavaScript,C,C++.
-- 💞️ I’m looking for any internship concerning the above mentioned programming languages. 
+- �
 - 📫 How to reach me : Email - robsonkhzepflo@gmail.com, Phone - 8787886320
 
 <!---
