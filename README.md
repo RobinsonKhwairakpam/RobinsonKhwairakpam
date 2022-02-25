@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robinson Khwairakpam,curretly a student of NIT Manipur.
+- 👋 Hi, I’m Robinson Khwairakpam,currently a student of NIT Manipur.
 - 👀 I’m interested in the field of web development.
 - 🌱 I have knowledge about CSS,HTML,JavaScript,C,C++.
 - �  I am looking for internship concerning web development.
