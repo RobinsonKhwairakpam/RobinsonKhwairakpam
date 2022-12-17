@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robinson Khwairakpam.
-- 👀 I’m interested in software engineer and web development.
+- 👀 I’m interested in software engineering and web development.
 - 🌱 I have knowledge about CSS, HTML, JavaScript, C, C++, Python.
 - 📫 How to reach me : Email - robsonkhzepflo@gmail.com, Phone - 8787886320
 
