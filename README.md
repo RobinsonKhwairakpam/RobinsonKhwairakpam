@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robinson Khwairakpam.
 - 👀 I’m interested in software engineering and web development.
-- 🌱 I have knowledge about C/C++, JavaScript, HTML, CSS, ReactJS, Python.
+- 🌱 I have knowledge about C/C++, Python, JavaScript, HTML, CSS, ReactJS, NodeJS, ExpressJS, MongoDB
 - 📫 How to reach me : Email - robsonkhzepflo@gmail.com, Phone - 8787886320
 
 <!---
